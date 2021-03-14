@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header{
+    background-color: black;
+    color:white;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    text-decoration:underline;
+    text-align: center;
+    color: red;
+    font-size: 56px;
+}
+footer{
+    background-color: black;
+    color:white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.shi {
+    background-color: black;
+    color:white;
+   text-align: center;
+}
